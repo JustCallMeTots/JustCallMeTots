@@ -1,16 +1,16 @@
-### Hi there 👋
+# Shalom Y'all I'm Tots (They/Them)
+<div id="header" align="center">
+  <img src="https://media4.giphy.com/media/J3PFjRm7LB28w/giphy.gif?cid=ecf05e47bhyy5fjc4imt50rqhk605h1jf979lofpw2gzkbar&rid=giphy.gif&ct=g" width="400"/>
+</div>
 
-<!--
-**JustCallMeTots/JustCallMeTots** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+#### I am currently a student at Nashville Software School going through the Front-End/Back-End Web Development Course. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Tots' GitHub stats](https://github-readme-stats.vercel.app/api?username=JustCallMeTots)](https://github.com/JustCallMeTots/github-readme-stats)
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/micah-stotsky-03272a238/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>  
